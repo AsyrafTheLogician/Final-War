@@ -257,7 +257,7 @@
 		"strength": 90,
 		"cost": 100,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["Only available <after adopting [Islamization]>", "[+100]% Strength <vs [Armored] and [Fighter] units>", "[+50]% Strength <when fighting in all terrains>", "Never appears as a Barbarian unit"],
+		"uniques": ["Only available <after adopting [Islamization]>", "[+100]% Strength <vs [Armored] units>", "[+50]% Strength <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": ["Great Generals I"],
 		"attackSound": "shot"
 	},
