@@ -34,7 +34,7 @@
 		"culture": 5,
 		"faith": 5,
 		"science": 10,
-		"greatPersonPoints": {"Great Scientist": 2},
+		"greatPersonPoints": {"Great Scientist": 5},
 		"isWonder": true,
 		"uniques": ["Free [Great Scientist] appears","Gain a free [University] [in all cities]", "Only available <after adopting [Wisdom]>"],
 		"requiredTech": "Writing"   
