@@ -120,7 +120,7 @@
 		"greatPersonPoints": {"Great Prophet": 5},
 		"isWonder": true,
 		"uniques": ["Gain a free [Mosque] [in this city]", "Only available <after adopting [Islamization]>", "Hidden when religion is disabled",
-			"[Missionary] units built [in all cities] can [Spread Religion] [1] extra times", "[Great Prophet] units built [in all cities] can [Spread Religion] [2] extra times"],
+			"All newly trained [Missionary] units [in all cities] receive the [Devout] promotion", "All newly trained [Great Prophet] units [in all cities] receive the [Devout] promotion"],
 		"requiredTech": "Theology",
 		"quote": "I bear witness that there is no deity but God, and I bear witness that Muhammad is the Messenger of God."
 	},
