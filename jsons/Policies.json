@@ -218,7 +218,7 @@
 			},
 			{
 				"name": "Islamization Complete",
-				"uniques": ["[+5 Happiness] from every [Mosque]" "[+10 Culture] from every [Holy site]"]
+				"uniques": ["[+5 Happiness] from every [Mosque]", "[+10 Culture] from every [Holy site]"]
 			}
 		]
 	},
