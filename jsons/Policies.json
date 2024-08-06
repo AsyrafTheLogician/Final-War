@@ -197,14 +197,14 @@
 			},
 			{
 				"name": "Oneness",
-				"uniques": ["[+50]% [Culture] from every [Mosque]","[+10 Faith ] from every [Holy site]"],
+				"uniques": ["[+50]% [Culture] from every [Mosque]","[+5 Faith ] from every [Holy site]"],
 				"requires": ["Servant of Allah"],
 				"row": 2,
 				"column": 1
 			},
 			{
 				"name": "Akhlaq",
-				"uniques": ["[+50]% [Culture] and [+25 Science] [in all cities]", "Empire enters golden age"],
+				"uniques": ["[+50]% [Culture] and [Science] [in all cities]", "Empire enters golden age"],
 				"requires": ["Servant of Allah"],
 				"row": 2,
 				"column": 3
