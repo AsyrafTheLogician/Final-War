@@ -197,7 +197,7 @@
 			},
 			{
 				"name": "Oneness",
-				"uniques": ["[+50]% [Culture] from every [Mosque]","[+5 Faith ] from every [Holy site]"],
+				"uniques": ["[+50]% [Culture] from every [Mosque]","[+3 Faith ] from every [Holy site]"],
 				"requires": ["Servant of Allah"],
 				"row": 2,
 				"column": 1
